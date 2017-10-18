@@ -1,2 +1,12 @@
 Drivers/*
 MDK-ARM/uVision-and-SVCS.uvguix.Victor
+*.lst
+*.crf
+*.d
+*.o
+*.axf
+*.htm
+*.lnp
+*.map
+*.sct
+*.dep
