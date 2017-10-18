@@ -10,3 +10,4 @@ MDK-ARM/uVision-and-SVCS.uvguix.Victor
 *.map
 *.sct
 *.dep
+*.uvoptx
