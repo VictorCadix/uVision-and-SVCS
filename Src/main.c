@@ -99,7 +99,7 @@ int main(void)
   {
   /* USER CODE END WHILE */
 		HAL_GPIO_TogglePin(GPIOD, GPIO_PIN_15);
-		HAL_Delay(100);
+		HAL_Delay(1000);
 		HAL_GPIO_TogglePin(GPIOD, GPIO_PIN_14);
 		HAL_GPIO_WritePin(GPIOD,GPIO_PIN_13,0);
 		
